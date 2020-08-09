@@ -82,7 +82,7 @@
             <div class="content">
                 <div class="title m-b-md">
                     <H4> Wellcome Nabil To yor site: your site is ready !!!!</H4>
-                    <H1>Thanks you !! ;)</H1>
+                    <H1>Have a nice day !!!  ;)</H1>
                 </div>
 
             </div>
